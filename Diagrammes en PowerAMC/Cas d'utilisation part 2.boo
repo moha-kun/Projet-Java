@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{CF83150C-2273-4724-AEE6-E1086F9C443A}" Label="" LastModificationDate="1649516447" Name="Cas d&#39;utilisation part 2" Objects="24" Symbols="18" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{CF83150C-2273-4724-AEE6-E1086F9C443A}" Label="" LastModificationDate="1649600632" Name="Cas d&#39;utilisation part 2" Objects="24" Symbols="18" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -1385,8 +1385,8 @@ Shadow=0</a:DisplayPreferences>
 <o:DependencySymbol Id="o22">
 <a:CreationDate>1649516128</a:CreationDate>
 <a:ModificationDate>1649516128</a:ModificationDate>
-<a:Rect>((-7462,9412), (1388,10958))</a:Rect>
-<a:ListOfPoints>((1388,9712),(-7462,9712))</a:ListOfPoints>
+<a:Rect>((-7462,9412), (1657,10958))</a:Rect>
+<a:ListOfPoints>((1657,9712),(-7462,9712))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>8</a:ArrowStyle>
 <a:LineColor>16744576</a:LineColor>
@@ -1406,8 +1406,8 @@ Shadow=0</a:DisplayPreferences>
 <o:UseCaseAssociationSymbol Id="o25">
 <a:CreationDate>1649516185</a:CreationDate>
 <a:ModificationDate>1649516192</a:ModificationDate>
-<a:Rect>((13913,9768), (30938,9868))</a:Rect>
-<a:ListOfPoints>((30938,9768),(13913,9768))</a:ListOfPoints>
+<a:Rect>((13654,9768), (30938,9868))</a:Rect>
+<a:ListOfPoints>((30938,9768),(13654,9768))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>0</a:ArrowStyle>
 <a:LineColor>16744448</a:LineColor>
@@ -1505,7 +1505,7 @@ LABL 0 Arial,8,N</a:FontList>
 <o:UseCaseSymbol Id="o23">
 <a:CreationDate>1649515844</a:CreationDate>
 <a:ModificationDate>1649516123</a:ModificationDate>
-<a:Rect>((666,7050), (14862,12449))</a:Rect>
+<a:Rect>((965,7050), (14563,12449))</a:Rect>
 <a:LineColor>16744448</a:LineColor>
 <a:LineWidth>1</a:LineWidth>
 <a:FillColor>16777152</a:FillColor>
@@ -1699,11 +1699,11 @@ DISPNAME 0 Arial,8,N</a:FontList>
 </o:UseCase>
 <o:UseCase Id="o35">
 <a:ObjectID>C4DDC283-B787-45ED-856D-FB2B78DE2758</a:ObjectID>
-<a:Name>Ajouter une nouvelle contrat</a:Name>
-<a:Code>Ajouter_une_nouvelle_contrat</a:Code>
+<a:Name>Ajouter un nouvelle contrat</a:Name>
+<a:Code>Ajouter_un_nouvelle_contrat</a:Code>
 <a:CreationDate>1649515844</a:CreationDate>
 <a:Creator>ababd</a:Creator>
-<a:ModificationDate>1649516139</a:ModificationDate>
+<a:ModificationDate>1649600632</a:ModificationDate>
 <a:Modifier>ababd</a:Modifier>
 </o:UseCase>
 <o:UseCase Id="o36">
@@ -1866,7 +1866,7 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:Code>Java</a:Code>
 <a:CreationDate>1649515792</a:CreationDate>
 <a:Creator>ababd</a:Creator>
-<a:ModificationDate>1649515792</a:ModificationDate>
+<a:ModificationDate>1649517698</a:ModificationDate>
 <a:Modifier>ababd</a:Modifier>
 <a:TargetModelURL>file:///%_OBJLANG%/java5-j2ee14.xol</a:TargetModelURL>
 <a:TargetModelID>0DEDDB90-46E2-45A0-886E-411709DA0DC9</a:TargetModelID>
@@ -1881,7 +1881,7 @@ DISPNAME 0 Arial,8,N</a:FontList>
 <a:Code>WSDLJava</a:Code>
 <a:CreationDate>1649515793</a:CreationDate>
 <a:Creator>ababd</a:Creator>
-<a:ModificationDate>1649515793</a:ModificationDate>
+<a:ModificationDate>1649600252</a:ModificationDate>
 <a:Modifier>ababd</a:Modifier>
 <a:TargetModelURL>file:///%_XEM%/WSDLJ2EE.xem</a:TargetModelURL>
 <a:TargetModelID>C8F5F7B2-CF9D-4E98-8301-959BB6E86C8A</a:TargetModelID>
