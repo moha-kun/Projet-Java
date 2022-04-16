@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{1077BCC1-C9F4-4B05-AA1D-49B519104621}" Label="" LastModificationDate="1650124691" Name="location" Objects="10" Symbols="1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{1077BCC1-C9F4-4B05-AA1D-49B519104621}" Label="" LastModificationDate="1650125425" Name="location" Objects="10" Symbols="1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -573,9 +573,9 @@ LABL 0 Arial,8,N</a:FontList>
 <a:Code>Diagrammedeclasses</a:Code>
 <a:CreationDate>1650124655</a:CreationDate>
 <a:Creator>HP ELITEBOOK</a:Creator>
-<a:ModificationDate>1650124705</a:ModificationDate>
+<a:ModificationDate>1650125425</a:ModificationDate>
 <a:Modifier>HP ELITEBOOK</a:Modifier>
-<a:Location>file:///C|/Users/HP ELITEBOOK/Desktop/Studies/ProjetJAVA/GestionDesLocationsDeVehicules/Diagramme de classes UML_1.moo</a:Location>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/Diagramme de classes.moo</a:Location>
 <a:Extension>moo</a:Extension>
 <a:ModelDocument.ModelID>D8FB46DB-3CEF-4A2B-9B09-C7D69841DB00</a:ModelDocument.ModelID>
 <a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
