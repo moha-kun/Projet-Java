@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{1077BCC1-C9F4-4B05-AA1D-49B519104621}" Label="" LastModificationDate="1649520235" Name="location" Objects="9" Symbols="0" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
+<?PowerDesigner AppLocale="UTF16" ID="{1077BCC1-C9F4-4B05-AA1D-49B519104621}" Label="" LastModificationDate="1650124691" Name="location" Objects="10" Symbols="1" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.1.0.2850"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -12,8 +12,22 @@
 <a:Code>location</a:Code>
 <a:CreationDate>1649497187</a:CreationDate>
 <a:Creator>ababd</a:Creator>
-<a:ModificationDate>1649516706</a:ModificationDate>
-<a:Modifier>ababd</a:Modifier>
+<a:ModificationDate>1650124606</a:ModificationDate>
+<a:Modifier>HP ELITEBOOK</a:Modifier>
+<a:PackageOptionsText>[FolderOptions]
+
+[FolderOptions\Project Objects]
+GenerationCheckModel=Yes
+GenerationPath=
+GenerationOptions=
+GenerationTasks=
+GenerationTargets=
+GenerationSelections=
+RbldDeplinkFile=Yes
+RbldDeplinkGene=Yes
+RbldDeplinkRefr=Yes
+RbldDeplinkMapp=Yes
+RbldDeplinkOpnm=Yes</a:PackageOptionsText>
 <a:ModelOptionsText>[ModelOptions]
 
 [ModelOptions\Prj options]
@@ -444,10 +458,31 @@ Shadow=0</a:DisplayPreferences>
 <a:PageMargins>((315,354), (433,354))</a:PageMargins>
 <a:PageOrientation>1</a:PageOrientation>
 <a:PaperSource>15</a:PaperSource>
+<c:Symbols>
+<o:ModelDocumentSymbol Id="o4">
+<a:IconMode>2</a:IconMode>
+<a:Rect>((-1201,-148), (1198,2251))</a:Rect>
+<a:LineColor>12034707</a:LineColor>
+<a:FillColor>16437422</a:FillColor>
+<a:ShadowColor>12632256</a:ShadowColor>
+<a:FontList>OBJSTRN 0 Arial,8,N
+DISPNAME 0 Arial,8,N
+LABL 0 Arial,8,N</a:FontList>
+<a:BrushStyle>6</a:BrushStyle>
+<a:GradientFillMode>65</a:GradientFillMode>
+<a:CustomPictureType>4</a:CustomPictureType>
+<a:CustomTextMode>1</a:CustomTextMode>
+<a:GradientEndColor>16777215</a:GradientEndColor>
+<a:KeepAspect>1</a:KeepAspect>
+<c:Object>
+<o:ModelDocument Ref="o5"/>
+</c:Object>
+</o:ModelDocumentSymbol>
+</c:Symbols>
 </o:ProjectDiagram>
 </c:ProjectDiagrams>
 <c:Folders>
-<o:ProjectFolder Id="o4">
+<o:ProjectFolder Id="o6">
 <a:ObjectID>F69E3C88-D2CF-4D7F-BB2B-920D968A5B9E</a:ObjectID>
 <a:Name>Diagrammes Cas d&#39;utilisation</a:Name>
 <a:Code>Diagrammes Cas d&#39;utilisation</a:Code>
@@ -456,7 +491,7 @@ Shadow=0</a:DisplayPreferences>
 <a:ModificationDate>1649516565</a:ModificationDate>
 <a:Modifier>ababd</a:Modifier>
 <c:ModelsAndFiles>
-<o:ModelDocument Id="o5">
+<o:ModelDocument Id="o7">
 <a:ObjectID>66F3CCB6-2D0A-43C5-B098-0CE393E25C83</a:ObjectID>
 <a:Name>Cas d&#39;utilisation</a:Name>
 <a:Code>Cas_d_utilisation</a:Code>
@@ -469,7 +504,7 @@ Shadow=0</a:DisplayPreferences>
 <a:ModelDocument.ModelID>765EA4A2-BB22-4D70-9D26-60EC53B4923D</a:ModelDocument.ModelID>
 <a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
 </o:ModelDocument>
-<o:ModelDocument Id="o6">
+<o:ModelDocument Id="o8">
 <a:ObjectID>A5F93D7C-8FA0-476A-9ECD-4A2AB7DC8DE4</a:ObjectID>
 <a:Name>Cas d&#39;utilisation part 2</a:Name>
 <a:Code>Cas_d_utilisation_part_2</a:Code>
@@ -482,7 +517,7 @@ Shadow=0</a:DisplayPreferences>
 <a:ModelDocument.ModelID>CF83150C-2273-4724-AEE6-E1086F9C443A</a:ModelDocument.ModelID>
 <a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
 </o:ModelDocument>
-<o:ModelDocument Id="o7">
+<o:ModelDocument Id="o9">
 <a:ObjectID>76A5CE08-87EF-4BB6-B997-BAB5277C8EC0</a:ObjectID>
 <a:Name>Gérer les clients</a:Name>
 <a:Code>Gerer_les_clients</a:Code>
@@ -495,7 +530,7 @@ Shadow=0</a:DisplayPreferences>
 <a:ModelDocument.ModelID>A7A14189-661E-41C2-98FC-F6CC8D7CE21C</a:ModelDocument.ModelID>
 <a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
 </o:ModelDocument>
-<o:ModelDocument Id="o8">
+<o:ModelDocument Id="o10">
 <a:ObjectID>367CADAD-FB72-4262-BEA4-F33D70F500A2</a:ObjectID>
 <a:Name>Gérer les réservations</a:Name>
 <a:Code>Gerer_les_reservations</a:Code>
@@ -508,7 +543,7 @@ Shadow=0</a:DisplayPreferences>
 <a:ModelDocument.ModelID>97ED018D-006A-4DB3-9DB2-B6E95B22B9D4</a:ModelDocument.ModelID>
 <a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
 </o:ModelDocument>
-<o:ModelDocument Id="o9">
+<o:ModelDocument Id="o11">
 <a:ObjectID>F8E99122-415A-4F58-817D-C8F5B5E91236</a:ObjectID>
 <a:Name>Gérer les utilisateurs</a:Name>
 <a:Code>Gerer_les_utilisateurs</a:Code>
@@ -523,7 +558,7 @@ Shadow=0</a:DisplayPreferences>
 </o:ModelDocument>
 </c:ModelsAndFiles>
 </o:ProjectFolder>
-<o:ProjectFolder Id="o10">
+<o:ProjectFolder Id="o12">
 <a:ObjectID>07E3404D-8376-4B74-ADB9-EFAE07340535</a:ObjectID>
 <a:Name>Diagramme de classe</a:Name>
 <a:Code>Diagramme de classe</a:Code>
@@ -531,6 +566,21 @@ Shadow=0</a:DisplayPreferences>
 <a:Creator>ababd</a:Creator>
 <a:ModificationDate>1649516786</a:ModificationDate>
 <a:Modifier>ababd</a:Modifier>
+<c:ModelsAndFiles>
+<o:ModelDocument Id="o5">
+<a:ObjectID>BECE3A64-96B6-4B17-B400-38D25D495774</a:ObjectID>
+<a:Name>Diagramme de classes</a:Name>
+<a:Code>Diagrammedeclasses</a:Code>
+<a:CreationDate>1650124655</a:CreationDate>
+<a:Creator>HP ELITEBOOK</a:Creator>
+<a:ModificationDate>1650124705</a:ModificationDate>
+<a:Modifier>HP ELITEBOOK</a:Modifier>
+<a:Location>file:///C|/Users/HP ELITEBOOK/Desktop/Studies/ProjetJAVA/GestionDesLocationsDeVehicules/Diagramme de classes UML_1.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>D8FB46DB-3CEF-4A2B-9B09-C7D69841DB00</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+</c:ModelsAndFiles>
 </o:ProjectFolder>
 </c:Folders>
 <c:DefaultDiagram>
